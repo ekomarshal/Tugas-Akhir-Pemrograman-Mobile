@@ -5,4 +5,5 @@ KELOMPOK
 3. Muhammad Iqbal Adnan 2015150043
 
 qrcode
+<br>
 <img src ="qrcode.png">;
